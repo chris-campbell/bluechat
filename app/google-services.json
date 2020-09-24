@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702086909124",
+    "firebase_url": "https://bluechat-7a18c.firebaseio.com",
+    "project_id": "bluechat-7a18c",
+    "storage_bucket": "bluechat-7a18c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702086909124:android:91dc22ceac620ccd348d91",
+        "android_client_info": {
+          "package_name": "tech.hoppr.bluechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702086909124-onicfeq2fciajgske7vlqahm8t4300it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAlhno-qrIpRZWaDQdHDCg6EcfphbAl7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702086909124-onicfeq2fciajgske7vlqahm8t4300it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
